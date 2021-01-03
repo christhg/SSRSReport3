@@ -1,7 +1,8 @@
 # SSRSReport3
 
-1. VS2019
+## VS2019
 
-2. SQL Server
+## SQL Server
 
-with AdventureWorks2014.bak
+1. with AdventureWorks2014.bak 資料庫
+2. with Sales.SalesTerritory 表
